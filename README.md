@@ -131,6 +131,6 @@ If you use Vector Music in your research, please cite:
   title = {Vector Music: A Mathematical Framework for Musical Generation},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/jodidac/vector-music}
+  url = {https://github.com/jodidac/VectorMusic}
 }
 ```
